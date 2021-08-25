@@ -1,0 +1,460 @@
+body{
+    font-size: 16px;
+    font-family: Avenir-Next,Roboto,sans-serif;
+    color:white;
+    margin: 0px;
+}
+.bar-img{
+    max-width: 90%;
+    margin: auto;
+    display: flex;
+    height: 70px;
+    justify-content: space-between;
+    align-items: center;
+}
+.bar-img img{
+    width: 170px;
+    height: 50px;
+    margin-bottom: 0px;
+}
+.select{
+    color: black;
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
+.select button{
+    background-color: coral;
+    color: white;
+    border: none;
+    width: 100px;
+    height: 30px;
+}
+.select img{
+    width: 30px;
+    height: 15px;
+    
+}
+#val1{
+    border: none;
+    font-size: 16px;
+}
+#val2{
+    border: none;
+    font-size: 16px;
+}
+#val3{
+    border: none;
+    font-size: 16px;
+}
+
+.header{
+    background-image: url(/pokemon-wiki-edyst-Abhinav-Jha30-main/images/ksqOx5F.jpeg);
+    margin: 0px;
+    background-repeat: no-repeat;
+    background-size: cover ;
+}
+.chintu{
+    background-color: #000000b3;
+}
+.chintu-i{
+    margin-left: 10%;
+}
+.chintu-btn{
+    box-sizing: border-box;
+    width: 200px;
+    height: 40px;
+    background-color: #4992ca;
+    color:white;
+    border:none;
+    display: block;
+}
+.chintu-btn2{
+    background-color: #ffffff00;
+    box-sizing: border-box;
+    margin-top: 20px;
+    border:2px solid white ;
+    color:white;
+    height: 40px;
+    width: 200px;
+    display: block;
+}
+.chintu-btn3{
+    box-sizing: border-box;
+    margin-top: 20px;
+    background-color: white;
+    color:black;
+    height:40px;
+    border: none;
+    border-radius: 15px;
+    margin-bottom: 100px;
+}
+h1{
+    margin: 0px;
+    font-size: 90px;
+    margin-bottom: 10px;
+    padding-top: 100px;
+}
+h3{
+    margin:0px;
+    font-size: 33px;
+    margin-bottom: 10px;
+}
+.body{
+    font-family: Avenir-Next,Roboto,sans-serif;
+    background-color :#4992ca;
+}
+.monty{
+    display: flex;
+    flex-direction: column;
+    align-items: center;   
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.p10{
+    max-width: 75%;
+    text-align: center;
+    margin-top: 0%;
+}
+.monty p{
+    margin-top: 0%;
+}
+.monty1{
+    display:flex;
+   max-width: 75%;
+   justify-content: space-between;
+}
+.monty2{
+    margin:5px ;
+  text-align: center;
+  padding-top: 50px;
+}
+.Statistics{
+    color: black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    max-width: 80%;
+    margin: auto;
+}
+.motu{
+    display: flex;
+    margin-top: 0px;
+}
+.Statistics h2{
+    font-size: 45px;
+    margin-bottom: 0px;
+    padding-top: 5px;
+}
+.motu1 h4{
+    font-size: 30px;
+    margin: 0%;
+    padding-bottom: 20px;
+}
+.motu1{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    padding-left: 30px;
+    padding-right: 20px;
+}
+.motu1 img{
+    height: 80%;
+    width: 50%;
+    margin-left: 25%;
+}
+.revealed{
+    font-family: Avenir-Next,Roboto,sans-serif;
+}
+.patlu{
+    color: black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    max-width: 80%;
+    margin: auto;
+}
+.patlu h2{
+    font-size: 45px;
+    font-weight: 100;
+}
+.patlu_img{
+    height: 250px;
+    width: 250px;
+    margin-right: 10px;
+}
+.pokemon_img{
+    height: 50px;
+    width: 150px;
+}
+.patlu1{
+    display: flex;
+    margin-bottom: 30px;
+}
+.patlu2{
+    display: flex;
+    flex-direction: column;
+    margin: 20px;
+}
+.patlu2 h4{
+    font-size: 30px;
+    margin: 40px 5px 10px 5px;
+    font-weight:lighter;
+    color: rgba(71, 68, 68, 0.692);
+}
+.patlu2 h6{
+    font-size: 18px;
+    margin: 10px;
+    font-weight: lighter;
+    color: rgba(150, 141, 141, 0.966);
+}
+.patlu1 p{
+    margin-top: 60px;
+    color: rgba(150, 141, 141, 0.966);
+}
+.Q_and_A{
+    background-color: #4992ca;
+    
+}
+.Q_and_A h2{
+    padding-top: 50px;
+}
+.nobita{
+    
+    padding-bottom: 30px;
+}
+.nobita h6{
+    padding-left: 150px;
+    margin: 20px;
+}
+.nobita ol{
+    padding-left: 175px;
+}
+.nobita li{
+    font-size: 18px;
+    padding-top: 5px;
+    margin-right: 150px;
+}
+.nobita ul li{
+    margin-left: 50px;
+}
+.nobita ul{
+    margin-bottom: 25px;   
+}
+.gean{
+    color:black;
+    text-align: center;
+    margin-right: 25px;
+}
+table{
+    border-collapse: collapse;
+    margin-left: 20px;
+    margin-top: 50px;
+    border-color: #8a8a8a;
+}
+.gean3 th{
+    border: 1px solid black;
+    padding: 20px 10px;
+    font-weight: bold;
+}
+.gean3 td{
+    border: 1px solid black;
+    padding: 20px 10px;
+    color:  #8a8a8a;
+}
+.gean1{
+    display: flex;
+    max-width: 80%;
+    margin: auto;
+}
+.gean2{
+    max-width: 33%;
+}
+.gean2 p{
+    line-height: 35px;
+}
+.gean4{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.gran4 p{
+    color:#4992ca ;
+}
+.gean4 button{
+    background-color:#4992ca;
+    color: white;
+    border: none;
+    width: 160px;
+    height: 35px;
+    margin-bottom: 30px;
+}
+.pekachu{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgba(19, 16, 16, 0.829);
+}
+.pekachu button{
+    background: transparent;
+    border: 2px solid white;
+    width: 200px;
+    height: 50px;
+    color: white;
+    font-size: 15px;
+    margin-bottom: 75px;
+}
+.pekachu h2{
+    margin-top: 50px;
+    margin-bottom: 25px;
+}
+.card1{
+    max-width: 30%;
+    margin: auto;
+    text-align: center;
+}
+.card2{
+    max-width: 60%;
+    margin: auto;
+    color: black;
+    border: 1px solid #7f8c8d48;
+}
+.card3{
+    border-top: 20px solid #4992ca;
+    background-color:#b3b7b877;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.card3 p{
+    color: #7f8c8d;
+}
+.card4{
+    border-top: 1px solid #7f8c8d7c;
+    padding: 20px;
+}
+.card1 h2{
+    margin-bottom: 10px;
+}
+.trainer{
+    background-color: #4992ca;
+}
+.div1{
+    display: flex;
+    max-width: 80%;
+    margin: auto;
+    color: black;
+    justify-content: center;
+}
+.div2{
+    border: 1px solid black;
+    padding: 2px;
+    margin: 5px;
+    max-width: 45%;
+    line-height: 30px;
+}
+.sec1 h1{
+    color: #7d8081;
+    font-size: 45px;
+    text-align: center;
+}
+.div3{
+    
+    border-top: 15px solid #4992ca ;
+    background-color: #f3f6f7;
+    
+}
+.div3 h1{
+    color: black;
+}
+.email{
+    background-color: rgba(19, 16, 16, 0.829);
+}
+form{
+    text-align: center;
+    padding-bottom: 75px;
+}
+input{
+    height: 50px;
+    width: 350px;
+}
+.email h2{
+    padding-top: 30px;
+}
+.game2{
+    margin-left: 0%;
+    text-align: center;
+}
+.game1{
+    margin: auto;
+    max-width: 20%;
+    text-align: center;
+    display: inline-block;
+    padding-left: 10px;
+}
+.game1 img{
+    height: 200px;
+    width: 250px;
+    padding-top: 10px;
+}
+.see button{
+    background-color:#4992ca;
+    color: white;
+    border: none;
+    width: 160px;
+    height: 35px;
+    margin-bottom: 30px;
+}
+.designers{
+    background-color: #4992ca;
+}
+
+.des{
+    margin-left: 200px;
+}
+.des1{ 
+    max-width: 30%;
+    text-align: center;
+    display: inline-block;
+    padding-left: 10px;
+    padding-top: 0px;
+}
+.des1 img{
+    border-radius: 50%;
+    height: 200px;
+    width: 175px;
+    padding-top: 10px;
+}
+.logo1 img{
+    height: 50px;
+    width: 150px;
+    padding-left: 18%;
+}
+.more{
+    background-color: #4992ca;
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.more button{
+    background: transparent;
+    color: white;
+    border: none;
+    width: 160px;
+    height: 35px;
+    margin-bottom: 30px;
+    border-style: solid;
+}
+.foot{
+    margin: auto;
+    margin-top: 0px;
+    background-color: black;
+}
+.foot2{
+    margin: auto;
+    display: inline-block;
+    text-align: center;
+    padding-left: 12%;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
